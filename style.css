@@ -5,6 +5,7 @@
 body,html {
   margin:0;
   padding:0;
+  background-image:url("image/bg/lightning.gif");
 }
 
 .nav ul {
